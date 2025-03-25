@@ -1,5 +1,22 @@
-# Welcome to GitHub Desktop!
+-Hey there👋, I'm Nicholas Maina Mureithi 
+-I'm passionate to be a Web Developer | UI/UX Designer | Cybersecurity Enthusiast
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+🌟About Me  
+-💻Passionate about web development, crafting sleek and functional websites.  
+-🎨Enthusiastic about UI/UX design, blending aesthetics with user-friendly experiences.  
+-🔒Exploring cybersecurity, securing digital landscapes one step at a time.  
+-🎯Constantly learning and building projects that push boundaries.  
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+📌Current Projects  
+- 🛠Building a QR Code Payment System (Web & Mobile)  
+- 🎨Revamping my e-learning platform with React.js + Tailwind CSS
+- 🌐Creating a student portal for various Universities.  
+
+
+📫Let's Connect
+🌍📩 [Email](nicholasmureithi68@email.com)  
+
+
+
+⚡ **Fun Fact:** I love building cool stuff, breaking things (ethically), and making the web a better place!😎  
+
