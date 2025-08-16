@@ -41,8 +41,12 @@
 ---
 
 ### 🌟 Projects I’m Proud Of
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 💸 **pesa-pal-budget-65** | Personal finance management app with budgeting features | React, Node.js, MongoDB | [Repo](https://github.com/MrCali4/pesa-pal-budget-65) |
+| 🛒 **E-Commerce Hardware Store** | Online hardware shop with payment integration | React, Node.js, Stripe API | [Repo](https://github.com/MrCali4/ecommerce-hardware-store) |
+| 🌐 **Portfolio Website** | My personal portfolio showcasing skills and projects | Next.js, Tailwind CSS | [Repo](https://github.com/MrCali4/portfolio) |
 
 ---
 
