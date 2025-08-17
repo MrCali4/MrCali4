@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **pesa-pal-budget-65**
+- 🔭 I’m currently working on **PesaPal-Budget-App**
 - 🌱 I’m learning **React.js, Next.js, and AI development**
 - 👯 I’m looking to collaborate on **Open Source & exciting projects**
 - 💬 Ask me about **JavaScript, React, Node.js, MERN, or API design**
